@@ -33,8 +33,8 @@
     <li>Alex Martinez #7</li>
     <li>Michael Martinez  #6</li>
     <li>Yussif Dakelbab #8</li>
-    <li>Ahmed  #10</li>
-    <li>Anas #4</li>
+    <li>Ahmed Karim #10</li>
+    <li>Anas Karim #4</li>
     <li>Aldo Palacios #3</li>
     <li>Gabe Nunez #2</li>
     <li>Erik #1</li>
