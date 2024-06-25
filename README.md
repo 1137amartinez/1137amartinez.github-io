@@ -1,6 +1,11 @@
     <h1>OC Strikers FC</h1>
-
-    <p>Home of Strikers FC based in Orange County</p>
+<html>
+<head>
+    <title>OC Strikers FC</title>        
+</head>
+    <body>
+        <h1>OC Strikers FC</h1>
+         <p>Home of Strikers FC based in Orange County</p>
     <p>OC Strikers FC, based in the vibrant heart of Orange County, is a soccer team infused with local spirit and an unyielding drive for success.
      This ambitious club began with a simple yet profound mission: to elevate local talent to the national stage, celebrating the love of soccer shared by its community.
       The dedication and hard work of everyone involved have seen this dream rapidly start to become a reality, as the team makes its exciting ascent into the United Soccer Premier League (UPSL), the fourth division of semi-professional soccer in the United States </p>
@@ -12,7 +17,7 @@
          As they gear up for their debut in the UPSL, OC Strikers FC is not just aiming for wins, but to inspire and unite their community through the beautiful game of soccer.
           Each match is more than a game; it's a celebration of local talent, community spirit, and the universal language of soccer that brings people together.</p>     
 
-</body>
+    </body>
 </html>
 
 <html>
