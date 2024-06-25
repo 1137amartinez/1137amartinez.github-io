@@ -1,9 +1,5 @@
-<html>
-<head>
-    <title> OC Strikers FC</title>
-</head>
-<body>
-    <h1>Welcome to OC Strikers FC</h1>
+
+    <h1>OC Strikers FC</h1>
 
     <p>Home of Strikers FC based in Orange County</p>
     <p>OC Strikers FC, based in the vibrant heart of Orange County, is a soccer team infused with local spirit and an unyielding drive for success.
