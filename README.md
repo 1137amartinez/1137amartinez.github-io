@@ -2,6 +2,8 @@
 <html>
 <head>
     <title>OC Strikers FC</title>        
+    ![DALL·E 2024-06-25 16 12 39 - Design a soccer team crest for OC Strikers FC, featuring a bold and modern style  The crest includes the initials 'OC' prominently at the top, with th](https://github.com/1137amartinez/1137amartinez.github.io/assets/173849136/8982d7dc-f74b-48be-a1a5-78566036234b)
+
 </head>
     <body>
         <h1>OC Strikers FC</h1>
