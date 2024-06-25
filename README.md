@@ -1,4 +1,3 @@
-
     <h1>OC Strikers FC</h1>
 
     <p>Home of Strikers FC based in Orange County</p>
