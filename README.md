@@ -1,8 +1,10 @@
-    <h1>OC Strikers FC</h1>
+    #<h1>OC Strikers FC</h1>
 <html>
 <head>
-    <title>OC Strikers FC</title>        
+    <title>OC Strikers FC</title>       
+    #image test
 
+![OC Strikers FC!](C:\Users\1137a\OneDrive\Documents\GitHub\1137amartinez.github.io\DALL·E 2024-06-25 16.12.39 - Design a soccer team crest for OC Strikers FC, featuring a bold and modern style. The crest includes the initials 'OC' prominently at the top, with th.jpg) 
 </head>
     <body>
         <h1>OC Strikers FC</h1>
