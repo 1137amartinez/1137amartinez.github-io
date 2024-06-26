@@ -1,8 +1,7 @@
 <html>
+    ![StrikersFCTEAM](https://github.com/1137amartinez/1137amartinez.github.io/assets/173849136/b3db8d78-1578-447f-9caf-4f048ca9253e)
 <head>
-    <title>OC Strikers FC</title>       
-
-![StrikersFCTEAM](https://github.com/1137amartinez/1137amartinez.github.io/assets/173849136/009a833f-9da6-477e-b6b9-a649cf13cdc3)    
+    <title>OC Strikers FC</title>         
 
 </head>
     <body>
