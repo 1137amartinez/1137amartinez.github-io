@@ -1,8 +1,7 @@
-    #<h1>OC Strikers FC</h1>
 <html>
 <head>
     <title>OC Strikers FC</title>       
- <img src="A vibrant and energetic scene at a local soccer match featuring OC Strikers FC, a semi-professional team based in Orange County  The image captures a .jpg" alt=
+ <img src="A vibrant and energetic scene at a local soccer match featuring OC Strikers FC, a semi-professional team based in Orange County  The image captures a .jpg" alt="A vibrant and energetic scene at a local soccer match featuring OC Strikers FC, a semi-professional team based in Orange County  The image captures a .jpg" width="500" height="600">
 </head>
     <body>
         <h1>OC Strikers FC</h1>
