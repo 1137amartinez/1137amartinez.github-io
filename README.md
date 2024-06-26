@@ -1,7 +1,7 @@
 <html>
 <head>
     <title>OC Strikers FC</title>       
- ![Alt text](relative%20path/to/StrikersFCTEAM.jpg?raw=true "Title")
+
 </head>
     <body>
         <h1>OC Strikers FC</h1>
