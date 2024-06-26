@@ -2,6 +2,8 @@
 <head>
     <title>OC Strikers FC</title>       
 
+![StrikersFCTEAM](https://github.com/1137amartinez/1137amartinez.github.io/assets/173849136/009a833f-9da6-477e-b6b9-a649cf13cdc3)    
+
 </head>
     <body>
         <h1>OC Strikers FC</h1>
