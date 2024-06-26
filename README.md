@@ -82,3 +82,5 @@
 
 </body>
 </html>
+
+![OCStrikersFC](https://github.com/1137amartinez/1137amartinez.github.io/assets/173849136/8a11d384-7c10-44d2-afdc-f4a59c675db7)
