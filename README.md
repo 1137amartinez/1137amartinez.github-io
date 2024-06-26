@@ -4,7 +4,7 @@
 
 ![StrikersFCTEAM](https://github.com/1137amartinez/1137amartinez.github.io/assets/173849136/b3db8d78-1578-447f-9caf-4f048ca9253e)
 
-<img src="/images/StrikersFCTEAM.png" alt="StrikersFCTEAM">
+<img src="/Documents/StrikersFCTEAM.jpg" alt="StrikersFCTEAM">
 
 </head>
     <body>
